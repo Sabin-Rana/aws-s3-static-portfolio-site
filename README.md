@@ -110,19 +110,3 @@ This project demonstrates the implementation of a secure static website hosting 
 ## **Conclusion**
 This project successfully demonstrates AWS best practices for static website hosting by combining the durability of S3 with the performance of CloudFront. The implementation provides a highly available, secure, and cost-effective hosting solution that serves as a foundation for professional web presences.
 
----
-
-## **Monitoring and Maintenance**
-
-### **Task 5: Monitoring the Website**
-Implementing monitoring tools is essential to track website availability, performance, and identifying potential errors.
-
-**Tools:**
-- **Amazon CloudWatch:** Set custom metrics to monitor the health of the S3 bucket.
-- **CloudFront Logs:** Monitor the performance of your CDN and security threats.
-- **S3 Access Logs:** Track the number of requests, errors, and monitor traffic patterns.
-
----
-
-**Conclusion:**
-By following these steps, you will establish a reliable, secure, and scalable static website on AWS, utilizing the best practices for performance optimization and security. Make sure to clean up resources to avoid unnecessary charges post-deployment.
