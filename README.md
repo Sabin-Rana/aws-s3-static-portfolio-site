@@ -8,7 +8,6 @@ This project demonstrates the implementation of a secure static website hosting 
 - **Ensure Security**: Implement proper access controls and HTTPS encryption
 - **Optimize Performance**: Configure CloudFront CDN for global content delivery
 - **Automate Deployment**: Create repeatable deployment process using AWS CLI
-- **Monitor Operations**: Set up logging and monitoring for the hosting environment
 
 ---
 
